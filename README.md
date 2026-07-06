@@ -55,7 +55,7 @@ The pipeline follows the **Medallion Architecture**:
 ```text
 .
 ├── Code_Files/
-├── datasets/
+├── Datasets/
 ├── architecture.png
 ├── pipeline.png
 └── README.md
